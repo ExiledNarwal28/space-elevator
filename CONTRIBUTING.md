@@ -52,7 +52,7 @@ To review a PR is a lot of things. First, you must read each added line, underst
 
 `main` is our production branch. Once in a while, when `develop` is perfectly stable and operationnal, we merge `develop` into `main`.
 
-### When is a milestone achieved / Definition of done
+### Definition of done
 
 A milestone is achieved once every of its issues are solved. This includes everything to add for a new release, from adding features, to solving bugs and improving performance.
 
