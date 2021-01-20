@@ -71,4 +71,4 @@ yarn
 
 ## License
 
-`CC BY-NC-SA 4.0` : [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md)
+`CC BY-NC-SA 4.0` : [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md), copied from [Jan T. Sott's Creative Commons Markdown repository](https://github.com/idleberg/Creative-Commons-Markdown).
