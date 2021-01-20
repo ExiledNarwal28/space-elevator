@@ -36,7 +36,7 @@ Everything in the app is unit tested. We also have requests and end-to-end tests
 
 When a bug is spotted in the application, it must be reported as an issue on GitHub issues with the appropriate template. There is a `bug` label. It must be added in the To do column of the project, above all non-bugs issues, ordered by priority.
 
-### Git Flow and pull requests
+### Branches and pull requests
 
 We use [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) to separate our branches.
 
