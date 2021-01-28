@@ -70,7 +70,7 @@ TODOs are okay, as long as they do not make it to the release. They can be used 
 
 ### Test driven development
 
-Every single piece of code added to the application must be written using test driven development. For TDD, we follow the tree basic steps : write failing tests for new feature, write basic code to get tests to pass and finally reformat newly added code. Once the new feature is correctly implemented, commit.
+Every single piece of code added to the application must be written using test driven development. For TDD, we follow the three basic steps : write failing tests for new feature, write basic code to get tests to pass and finally reformat newly added code. Once the new feature is correctly implemented, commit.
 
 Tests are located in `src/test/java/com/rocknprog/spaceelevator`. The package naming must be identical to `src/main/java/com/rocknprog/spaceelevator`. Test class names must have a `Test` prefix. For instance, the test class for `Main.java` would be `MainTest.java`
 
