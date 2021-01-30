@@ -2,7 +2,7 @@
 name: Feature to implement
 about: A new feature to add to the app
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
